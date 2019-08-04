@@ -43,7 +43,7 @@
 
 7.复制剪贴板功能等。
 
-项目开发环境：
+**项目开发环境：**
 Windows 10
 
 Flutter v1.7.8
@@ -53,5 +53,41 @@ Android Studio 3.4
 Dart 2.2.0
 
 
+**项目的dart代码结构如下：**
+![dart代码结构](images/project/https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804213521.png)
 
+**使用到的第三方库如下：**
+* sqflite：数据库操作
+
+* path_provider：目录路径的读取
+
+* oktoast：实现Toast提示
+
+* event_bus：通信
+
+* flutter_custom_calendar：日历功能
+
+**部分效果预览图：**
+
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/gifhome_540x960_31s.gif)
+
+静态效果图：
+
+![实践篇效果图](images/project/Screenshot_20190804-210042.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-214452.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-210101.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-210108.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-214556.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-210138.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-213326.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-214522.jpg)
+
+![实践篇效果图](images/project/Screenshot_20190804-214548.jpg)
 

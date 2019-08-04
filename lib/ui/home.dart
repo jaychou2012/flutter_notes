@@ -1,8 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_custom_calendar/controller.dart';
-import 'package:flutter_custom_calendar/widget/calendar_view.dart';
-import 'package:flutter_note/entity/note.dart';
 import 'package:flutter_note/ui/search.dart';
 import 'package:flutter_note/utils/note_db_helper.dart';
 import 'package:flutter_note/utils/tost_utils.dart';
@@ -12,7 +9,6 @@ import 'calendar.dart';
 import 'center.dart';
 import 'list.dart';
 import 'write.dart';
-import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 
 class HomePage extends StatefulWidget {
@@ -123,11 +119,26 @@ class HomePageState extends State<HomePage> {
               // 导航集合
               items: <BottomNavigationBarItem>[
                 BottomNavigationBarItem(
-                    icon: Icon(Icons.event_note), title: Text('主页')),
+                    activeIcon: Icon(
+                      Icons.event_note,
+                      color: Colors.blue[300],
+                    ),
+                    icon: Icon(Icons.event_note),
+                    title: Text('主页')),
                 BottomNavigationBarItem(
-                    icon: Icon(Icons.calendar_today), title: Text('日历')),
+                    activeIcon: Icon(
+                      Icons.calendar_today,
+                      color: Colors.blue[300],
+                    ),
+                    icon: Icon(Icons.calendar_today),
+                    title: Text('日历')),
                 BottomNavigationBarItem(
-                    icon: Icon(Icons.person), title: Text('个人中心')),
+                    activeIcon: Icon(
+                      Icons.person,
+                      color: Colors.blue[300],
+                    ),
+                    icon: Icon(Icons.person),
+                    title: Text('个人中心')),
               ],
               currentIndex: _selectedIndex,
               onTap: setPageViewItemSelect,

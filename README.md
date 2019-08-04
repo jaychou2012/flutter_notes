@@ -54,7 +54,7 @@ Dart 2.2.0
 
 
 **项目的dart代码结构如下：**
-![dart代码结构](images/project/https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804213521.png)
+![dart代码结构](https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804213521.png)
 
 **使用到的第三方库如下：**
 * sqflite：数据库操作
@@ -73,21 +73,34 @@ Dart 2.2.0
 
 静态效果图：
 
-![实践篇效果图](images/project/Screenshot_20190804-210042.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-210042.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-214452.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-214452.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-210101.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-210101.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-210108.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-210108.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-214556.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-214556.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-210138.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-210138.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-213326.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-213326.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-214522.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-214522.jpg)
 
-![实践篇效果图](images/project/Screenshot_20190804-214548.jpg)
+![实践篇效果图](https://github.com/jaychou2012/flutter_notes/raw/master/screenshot/Screenshot_20190804-214548.jpg)
+
+## 后续更新计划：
+这个项目也会持续更新，开源。后续更新内容：
+
+登录页、注册页、密码锁的绘制、日历事件的完善、收藏页、主题切换、天气和表情及图片的添加等。
+
+预览APK地址：https://github.com/jaychou2012/flutter_notes/raw/master/app-release.apk
+
+## 推荐课程：
+
+![推荐课程](https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804222342.jpg)
+
+
 

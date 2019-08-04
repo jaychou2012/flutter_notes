@@ -54,9 +54,11 @@ Dart 2.2.0
 
 
 **项目的dart代码结构如下：**
+
 ![dart代码结构](https://raw.githubusercontent.com/jaychou2012/flutter_notes/master/screenshot/20190804213521.png)
 
 **使用到的第三方库如下：**
+
 * sqflite：数据库操作
 
 * path_provider：目录路径的读取

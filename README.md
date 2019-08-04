@@ -43,5 +43,15 @@
 
 7.复制剪贴板功能等。
 
+项目开发环境：
+Windows 10
+
+Flutter v1.7.8
+
+Android Studio 3.4
+
+Dart 2.2.0
+
+
 
 
